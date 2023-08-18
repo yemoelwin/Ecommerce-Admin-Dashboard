@@ -1,0 +1,24 @@
+// src/
+// |-- components/
+// |   |-- Common/
+// |   |   |-- Header.js
+// |   |   |-- Footer.js
+// |   |-- Home/
+// |   |   |-- HomePage.js
+// |   |   |-- FeaturedProducts.js
+// |   |   |-- ...
+// |   |-- Product/
+// |   |   |-- ProductList.js
+// |   |   |-- ProductDetail.js
+// |   |   |-- ProductCard.js
+// |   |   |-- ...
+// |-- containers/
+// |   |-- HomeContainer.js
+// |   |-- ProductContainer.js
+// |-- services/
+// |   |-- api.js
+// |   |-- auth.js
+// |-- utils/
+// |   |-- helpers.js
+// |-- App.js
+// |-- index.js
